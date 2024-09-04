@@ -42,7 +42,7 @@ We’re excited to partner with you on your next project. Feel free to reach out
 
 - **Website:** [www.soasy.fr](https://www.soasy.fr)
 - **Email:** [contact@soasy.fr](mailto:contact@soasy.fr)
-- **LinkedIn:** [SOASY on LinkedIn]([https://www.linkedin.com/company/soasy/])
+- **LinkedIn:** [SOASY on LinkedIn](https://www.linkedin.com/company/soasy/)
 
 ## Contributing
 
