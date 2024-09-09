@@ -5,7 +5,7 @@
 
 <!-- Insert your company logo here ![SOASY Logo](path/to/logo.png) -->
 
-## 🌐 About **SOASY **
+## 🌐 About **SOASY**
 
 **SOASY** is an industry leader in digital innovation, offering unparalleled expertise in web and application development, cloud computing, and artificial intelligence integration. Our mission is to empower businesses by crafting tailored, cutting-edge solutions that drive growth, efficiency, and digital transformation.
 
